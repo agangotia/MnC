@@ -1,5 +1,9 @@
 package com.anupam.mnc;
-
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
 
 /**Missionary and Cannibals Problem Solution
  * Three missionaries and three cannibals are on one side of the river, along with a boat

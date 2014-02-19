@@ -1,4 +1,10 @@
 package com.anupam.mnc;
+/**
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
+ */
+
 /**This is the datastructure to hold Actions in a search tree
  * */
 public class Action {

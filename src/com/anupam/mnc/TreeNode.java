@@ -8,8 +8,9 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author Anupam
- *
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
 
 /**This is the datastructure that holds the tree

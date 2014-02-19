@@ -4,10 +4,10 @@
 package com.anupam.mnc;
 import java.util.ArrayList;
 /**
- * @author Anupam
- *
+ * @author Anupam Gangotia
+ * Profile::http://en.gravatar.com/gangotia
+ * github::https://github.com/agangotia
  */
-
 
 /**This class generates the search tree
  * */
